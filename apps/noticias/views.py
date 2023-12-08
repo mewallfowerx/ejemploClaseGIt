@@ -23,3 +23,4 @@ def Home_Noticias(request):
 # noticias = todas_noticias
 # fecha = '28-11-23'
 #probando cambios
+#cambio para probra fetch
