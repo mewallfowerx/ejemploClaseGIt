@@ -22,3 +22,4 @@ def Home_Noticias(request):
 # ej recibo 2 variables distintas, cuyo nombre es igual a la clave
 # noticias = todas_noticias
 # fecha = '28-11-23'
+#probando cambios
